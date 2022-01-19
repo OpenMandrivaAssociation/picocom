@@ -6,7 +6,7 @@ Summary:        Minimal serial communications program
 Group:          Communications
 License:        GPLv2+
 URL:            https://github.com/npat-efault/picocom
-Source0:        https://github.com/npat-efault/picocom/archive/%{version}.tar.gz
+Source0:        https://github.com/npat-efault/picocom/archive/%{name}-%{version}.tar.gz
 
 # for groupadd
 Requires(pre):  shadow-utils
