@@ -1,6 +1,6 @@
 Name:           picocom
 Version:        3.1
-Release:        1
+Release:        2
 Summary:        Minimal serial communications program
 
 Group:          Communications
