@@ -11,6 +11,7 @@ Source0:        https://github.com/npat-efault/picocom/archive/%{name}-%{version
 # for groupadd
 Requires(pre):  shadow-utils
 
+BuildRequires:	make
 %description
 As its name suggests, [picocom] is a minimal dumb-terminal emulation
 program. It is, in principle, very much like minicom, only it's "pico"
